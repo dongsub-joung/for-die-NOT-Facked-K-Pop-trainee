@@ -3,7 +3,11 @@
 - https://www.jacksondunstan.com/articles/3318
 
 
-# native-c
+# native-c cuz Buffers with BytesIO
+
+- https://medium.com/@sarthakshah1920/harnessing-the-power-of-in-memory-buffers-with-bytesio-0ac6d5493178
+
+> high lvl  
 
 - https://github.com/intarsys/native-c
 - cgo : https://pkg.go.dev/cmd/cgo
